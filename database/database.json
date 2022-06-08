@@ -20,7 +20,7 @@
       "afkTime": -1,
       "banned": false,
       "afkReason": "",
-      "limit": 70,
+      "limit": infinity,
       "money": 0,
       "exp": 0,
       "autolevelup": true,
