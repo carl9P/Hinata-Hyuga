@@ -5,16 +5,10 @@
 </p>
 <p align="center">
 <a href="#"><img title="HINATA HYUGA" src="https://img.shields.io/badge/my%20waifu-Kurisu%20Makise%20-red"></a>
-</p>
-<p align="center">
-<a href="https://github.com/riychdwayne/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
-<a href="https://github.com/riychdwayne/Hinata-Hyuga/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/riychdwayne/Hinata-Hyuga?color=blue&style=flat-square"></a>
-<a href="https://github.com/riychdwayne/Hinata-Hyuga/network/members"><img title="Forks" src="https://img.shields.io/github/forks/riychdwayne/Hinata-Hyuga?color=red&style=flat-square"></a>
-<a href="https://github.com/riychdwayne/Hinata-Hyuga/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/riychdwayne/Hinata-Hyuga?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/riychdwayne/Hinata-Hyuga"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/riychdwayne/Hinata-Hyuga/"><img title="Size" src="https://img.shields.io/github/repo-size/riychdwayne/Hinata-Hyuga?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friychdwayne%2FHinata-Hyuga&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/riychdwayne/Hinata-Hyuga/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+
+
+
+
 </p>
 
 <p align="center">
@@ -31,7 +25,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6281575886399)
+* For more info, Chat [owner-kurisu](https://wa.me/918910105138)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
