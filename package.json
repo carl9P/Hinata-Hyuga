@@ -1,7 +1,7 @@
   {
-  "name": "Hinata-Hyuga",
+  "name": "Kurisu-Kawai",
   "version": "5.0.0",
-  "description": "Whatsapp Bot By Riy",
+  "description": "Whatsapp Bot By Carl",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -16,7 +16,7 @@
   "botmd",
   "bot-md"
   ],
-  "author": "Riy",
+  "author": "Carl",
   "license": "MIT",
   "dependencies": {
   "@adiwajshing/baileys": "^4.1.0",
@@ -70,10 +70,10 @@
   "devDependencies": {},
   "repository": {
   "type": "git",
-  "url": "git+https://github.com/riychdwayne/Hinata-Hyuga.git"
+  "url": "git+https://github.com/carl9P/Kurisu-Kawai.git"
   },
   "bugs": {
-  "url": "https://github.com/riychdwayne/Hinata-Hyuga/issues"
+  "url": "https://github.com/carl9P/Kurisu-Kawai/issues"
   },
-  "homepage": "https://github.com/riychdwayne/Hinata-Hyuga#readme"
+  "homepage": "https://github.com/carl9P/Kurisu-Kawai#readme"
   }
