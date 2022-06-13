@@ -13,10 +13,10 @@
 
 <p align="center">
   <a href="https://github.com/riychdwayne/Hinata-Hyuga#requirements">Requirements</a> •
-  <a href="https://github.com/riychdwayne/Hinata-Hyuga#instalasi">Installation</a> •
-  <a href="https://github.com/riychdwayne/Hinata-Hyuga#thanks-to">Thanks to</a> •
-  <a href="https://github.com/riychdwayne/Hinata-Hyuga#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/riychdwayne/Hinata-Hyuga#donate">Donate</a>
+  
+
+
+
 </p>
 </div>
 
@@ -24,7 +24,7 @@
 ---
 
 ## Bugs and Tester
-* Jika kamu menemukan bug jangan lupa buka Issues
+* If you find a bug, don't forget to open Issues
 * For more info, Chat [owner-kurisu](https://wa.me/918910105138)
 
 # Requirements
